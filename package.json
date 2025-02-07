@@ -1,0 +1,15 @@
+{
+  "name": "collider-playground.mix",
+  "version": "0.0.12",
+  "description": "collider.jam experimental code playground",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "monaco-editor": "0.52.2",
+    "monaco-themes": "0.4.4",
+    "split.js": "^1.6.2"
+  },
+  "author": "Igor Khotin & Co.",
+  "license": "Zlib"
+}
